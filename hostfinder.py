@@ -1,5 +1,17 @@
-import pyfiglet
 import socket
+import subprocess
+
+try:
+    import pyfiglet
+except ImportError:
+    try:
+        subprocess.run(["pip","install","requirements.txt"])
+        import pyfiglet
+    except:
+        print("error occured")
+except:
+    print("error occured")
+
 word=pyfiglet.figlet_format("HostFinder")
 print(word)
 try:
