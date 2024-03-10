@@ -5,7 +5,7 @@ try:
     import pyfiglet
 except ImportError:
     try:
-        subprocess.run(["pip","install","requirements.txt"])
+        subprocess.run(["pip","install","-r","requirements.txt"])
         import pyfiglet
     except:
         print("error occured")
