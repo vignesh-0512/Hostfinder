@@ -12,6 +12,7 @@ Exciting developments are on the horizon! Hostfinder is gearing up for a graphic
 Steps to Install:
 
 🚀 Clone the Repository:
+
 git clone https://github.com/vignesh-0512/Hostfinder.git
 
 📂 Navigate to the Hostfinder Folder:
