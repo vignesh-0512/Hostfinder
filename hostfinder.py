@@ -1,4 +1,7 @@
+import pyfiglet
 import socket
+word=pyfiglet.figlet_format("HostFinder")
+print(word)
 try:
     host = input("Enter website name:")
     ip=socket.gethostbyname(host)
