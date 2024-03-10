@@ -1,4 +1,5 @@
-# Hostfinder
+Hostfinder
+
 🌐 Domain to IP Conversion:
 Hostfinder excels in effortlessly converting domain names into IP addresses. Whether you're a developer, system administrator, or tech enthusiast, our tool ensures a smooth and straightforward process, saving you time and effort.
 
@@ -7,3 +8,16 @@ Unlock the power of Hostfinder for comprehensive network scanning. Obtain the IP
 
 🚀 Upcoming GUI Launch:
 Exciting developments are on the horizon! Hostfinder is gearing up for a graphical revolution with its upcoming GUI launch. This transition to a Graphical User Interface as a website marks a significant milestone, promising an even more accessible and user-friendly experience. Get ready to explore Hostfinder's capabilities with a sleek and intuitive interface.
+
+Steps to Install:
+🚀 Clone the Repository:
+git clone https://github.com/vignesh-0512/Hostfinder.git
+
+📂 Navigate to the Hostfinder Folder:
+cd Hostfinder
+
+🔍 Check Python Installation:
+python --version
+
+▶️ Run Hostfinder:
+python hostfinder.py
