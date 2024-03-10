@@ -18,6 +18,10 @@ git clone https://github.com/vignesh-0512/Hostfinder.git
 📂 Navigate to the Hostfinder Folder:
 cd Hostfinder
 
+![Linux CLI]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fproducts--180003317587746800%2F&psig=AOvVaw2KnhoghkkfOpkRuORTYmmU&ust=1710143284099000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjahaya6YQDFQAAAAAdAAAAABAE
+Now run setup.sh file to install necessary modules using the following command
+bash setup.sh
+
 🔍 Check Python Installation:
 python --version
 
